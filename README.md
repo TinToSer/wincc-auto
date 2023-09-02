@@ -1,5 +1,5 @@
 # wincc-auto
-A tool to automate SIEMENS Wincc by injecting Tag values or fetching Tag values
+A Command Line tool to automate SIEMENS Wincc by injecting Tag values or fetching Tag values
 
 You can have your wrapper in any Programming Language to set or get Tag values in Siemens WINCC(any version).
 
