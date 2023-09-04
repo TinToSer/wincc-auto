@@ -3,6 +3,7 @@
 
 import subprocess
 
+winccpth="WinCRW.exe"
 #Here taglst and tagv are list of tags and corresponding values
 def tagset(taglst,tagv):
         cmdd=winccpth+" -t "+";".join(taglst)+" -v "+";".join([ k for k in tagv ])
